@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -29,21 +30,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yefanh/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -96,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
