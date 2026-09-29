@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/yefanh/leetcode-submission/tree/master/0127-word-ladder) |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 ## Shortest Path
 |  |
 | ------- |
@@ -41,13 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 ## Array
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yefanh/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yefanh/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -65,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/yefanh/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
+## Binary Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
+## Matrix
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
