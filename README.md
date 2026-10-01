@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yefanh/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/yefanh/leetcode-submission/tree/master/0127-word-ladder) |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0516-longest-palindromic-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yefanh/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/yefanh/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yefanh/leetcode-submission/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yefanh/leetcode-submission/tree/master/0213-house-robber-ii) |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yefanh/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yefanh/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
