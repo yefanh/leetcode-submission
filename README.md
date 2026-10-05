@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/yefanh/leetcode-submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yefanh/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/yefanh/leetcode-submission/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/yefanh/leetcode-submission/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/yefanh/leetcode-submission/tree/master/0746-min-cost-climbing-stairs) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
