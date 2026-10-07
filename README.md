@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yefanh/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yefanh/leetcode-submission/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yefanh/leetcode-submission/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/yefanh/leetcode-submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yefanh/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yefanh/leetcode-submission/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yefanh/leetcode-submission/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/yefanh/leetcode-submission/tree/master/0647-palindromic-substrings) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yefanh/leetcode-submission/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yefanh/leetcode-submission/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -191,8 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yefanh/leetcode-submission/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yefanh/leetcode-submission/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/yefanh/leetcode-submission/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
