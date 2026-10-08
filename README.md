@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/yefanh/leetcode-submission/tree/master/0127-word-ladder) |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/yefanh/leetcode-submission/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yefanh/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yefanh/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yefanh/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yefanh/leetcode-submission/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yefanh/leetcode-submission/tree/master/0518-coin-change-ii) |
@@ -113,15 +117,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/yefanh/leetcode-submission/tree/master/0778-swim-in-rising-water) |
 ## Topological Sort
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yefanh/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yefanh/leetcode-submission/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
@@ -155,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yefanh/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/yefanh/leetcode-submission/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Longest Common Subsequence
 |  |
 | ------- |
