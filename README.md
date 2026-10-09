@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yefanh/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/yefanh/leetcode-submission/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/yefanh/leetcode-submission/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yefanh/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/yefanh/leetcode-submission/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/yefanh/leetcode-submission/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yefanh/leetcode-submission/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/yefanh/leetcode-submission/tree/master/0416-partition-equal-subset-sum) |
