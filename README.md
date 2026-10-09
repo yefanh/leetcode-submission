@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yefanh/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/yefanh/leetcode-submission/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yefanh/leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yefanh/leetcode-submission/tree/master/0198-house-robber) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yefanh/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yefanh/leetcode-submission/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/yefanh/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yefanh/leetcode-submission/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yefanh/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/yefanh/leetcode-submission/tree/master/0072-edit-distance) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yefanh/leetcode-submission/tree/master/0010-regular-expression-matching) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yefanh/leetcode-submission/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
