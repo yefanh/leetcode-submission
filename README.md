@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yefanh/leetcode-submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/yefanh/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yefanh/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yefanh/leetcode-submission/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/yefanh/leetcode-submission/tree/master/0139-word-break) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yefanh/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yefanh/leetcode-submission/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/yefanh/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yefanh/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yefanh/leetcode-submission/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yefanh/leetcode-submission/tree/master/0062-unique-paths) |
@@ -237,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yefanh/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yefanh/leetcode-submission/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
