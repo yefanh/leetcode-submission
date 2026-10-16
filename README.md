@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/yefanh/leetcode-submission/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/yefanh/leetcode-submission/tree/master/0139-word-break) |
+| [0763-partition-labels](https://github.com/yefanh/leetcode-submission/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0516-longest-palindromic-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/yefanh/leetcode-submission/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/yefanh/leetcode-submission/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yefanh/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/yefanh/leetcode-submission/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/yefanh/leetcode-submission/tree/master/0763-partition-labels) |
 ## Manacher
 |  |
 | ------- |
@@ -243,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yefanh/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yefanh/leetcode-submission/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/yefanh/leetcode-submission/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/yefanh/leetcode-submission/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
