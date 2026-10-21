@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/yefanh/leetcode-submission/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/yefanh/leetcode-submission/tree/master/0139-word-break) |
+| [0219-contains-duplicate-ii](https://github.com/yefanh/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 | [0763-partition-labels](https://github.com/yefanh/leetcode-submission/tree/master/0763-partition-labels) |
 ## String
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yefanh/leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yefanh/leetcode-submission/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yefanh/leetcode-submission/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/yefanh/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 | [0269-alien-dictionary](https://github.com/yefanh/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0300-longest-increasing-subsequence](https://github.com/yefanh/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yefanh/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yefanh/leetcode-submission/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/yefanh/leetcode-submission/tree/master/0134-gas-station) |
 | [0763-partition-labels](https://github.com/yefanh/leetcode-submission/tree/master/0763-partition-labels) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/yefanh/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
